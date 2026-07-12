@@ -1,0 +1,9 @@
+groceries={'milk':60,'biscuits':20,'rice':90,'bread':30}
+print(groceries)
+print(len(groceries))
+print(type(groceries))
+print(groceries['milk'])
+groceries['eggs']=28
+print(groceries)
+groceries['bread']=39
+print(groceries)
