@@ -1,0 +1,5 @@
+filehandle=open("file3.txt",'at')
+filehandle.write("\nfhhsbbd \n")
+filehandle.write("hdhshhdd \n")
+filehandle.write("fhhsjd")
+filehandle.close()
